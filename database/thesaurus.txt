@@ -1,0 +1,5 @@
+adjective: aimless, bad, big, brisk, curious, dear, exposed, fascinating, fast, fine, generous, good, gratified, handsome, hard, heavy, kind, large, little, long, loud, old, raw, short, slow, small, soft, thick, young
+conjunction: although, and, because, besides, but, if, since, therefore, unlike, whereas
+noun: barn, bedroom, bird, book, boy, children, city, cook, country, cradle, dinner, dogs, ear, eye, eyes, family, feet, flood, friend, garden, hair, hands, hedges, human, kitten, kitty, knowledge, lady, life, light, man, material, men, miller, misfortune, money, mouse, music, musician, night, paws, picture, plane, priest, public, pupil, river, sister, story, toes, tree, trees, truth, way, wood, yard, year, years
+preposition: about, above, ahead, along, around, behind, beside, inside, near, off, through, toward, within
+verb: bring, catch, climb, drives, echoed, fling, fly, growl, hear, howl, howled, jump, jumped, knew, know, liked, made, make, makes, nestle, point, pointing, ran, replied, run, said, saved, say, shook, sink, sleep, speak, spoke, thought, toss, use, walk, walked, whip
